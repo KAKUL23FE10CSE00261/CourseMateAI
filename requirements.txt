@@ -1,0 +1,79 @@
+# ==========================
+# LangChain
+# ==========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-mistralai
+
+# ==========================
+# Mistral AI
+# ==========================
+mistralai
+
+# ==========================
+# Vector Database
+# ==========================
+chromadb
+
+# ==========================
+# Embedding Models
+# ==========================
+sentence-transformers
+transformers
+torch
+accelerate
+safetensors
+
+# ==========================
+# Document Loaders
+# ==========================
+pypdf
+pymupdf
+python-docx
+docx2txt
+python-pptx
+openpyxl
+markdown
+
+# ==========================
+# HTML Parsing
+# ==========================
+beautifulsoup4
+lxml
+
+# ==========================
+# OCR (Optional)
+# ==========================
+pillow
+pytesseract
+
+# ==========================
+# Tokenization
+# ==========================
+tiktoken
+
+# ==========================
+# Data Processing
+# ==========================
+numpy
+pandas
+
+# ==========================
+# Web App
+# ==========================
+streamlit
+fastapi
+uvicorn
+
+# ==========================
+# Utilities
+# ==========================
+python-dotenv
+requests
+httpx
+tqdm
+loguru
+typing-extensions
